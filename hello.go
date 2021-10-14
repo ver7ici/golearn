@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ver7ici/golearn/greetings"
+	"app/greetings"
 )
 
 func main() {
